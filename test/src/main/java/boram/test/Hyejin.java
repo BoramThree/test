@@ -1,3 +1,5 @@
+package boram.test;
+
 public class Hyejin {
     public static void main(String[] args) {
 
