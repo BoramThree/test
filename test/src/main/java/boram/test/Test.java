@@ -10,5 +10,7 @@ public class Test {
 
         System.out.println("나는 문정현이다");
 
+        System.out.println("wdfkowdkw");
+
     }
 }
