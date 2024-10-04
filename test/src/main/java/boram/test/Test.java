@@ -8,6 +8,7 @@ public class Test {
       
         System.out.println("브랜치안녕");
 
+        System.out.println("나는 문정현이다");
 
     }
 }
